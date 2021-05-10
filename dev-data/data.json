@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Lifetime Fitness",
+    "image": "L T",
+    "mode": "Lifetime Fitness",
+    "amenities": "Weights, Handball, Rock Climbing ",
+    "rating": "⭐️⭐️⭐️",
+    "price": "$ $ $ $",
+    "cafe": true,
+    "description": "Full club. In addition to the weight room, each facility has a hair salon, outstanding indoor and outdoor pool, basketball and handball courts. It even has rock climbing. The cafe is above average and worth a visit. The down side is this all comes for a price. And it at least for this reviewer, it seemed that I was paying for amenities that I would never use."
+  },
+  {
+    "id": 1,
+    "productName": "LA Fitness",
+    "image": "$$$",
+    "mode": "LA Fitness",
+    "amenities": "Weight Room, Classes ",
+    "rating": "⭐️⭐️⭐️",
+    "price": "$ $ $",
+    "cafe": false,
+    "description": "Very similar vibe with LifeTime fitness. Well almost. It seems to be 85% of what Lifetime fitness is. Like LifeTime it is a national chain and your membership is good every where. So if you travel it is a good choice"
+  },
+  {
+    "id": 2,
+    "productName": "Golds Gym",
+    "image": "$$",
+    "mode": "Golds Gym",
+    "amenities": " Free Weights, Machines, Olympic lifting,Classes",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "price": "$ $",
+    "cafe": true,
+    "description": "An icon since the early days of weigh training and Arnold, Gold's gym is a no-nonsense, progressive lifting gym. Ample equipment, free weights and generally a serious trainers place. The pricing is great also. However, while Gold's is global, they are franchises and when visiting other gyms there is a guess member fee. If you are a serious lifter this should be on your short list."
+  },
+  {
+    "id": 3,
+    "productName": "Planet Fitness",
+    "image": "$ $ $",
+    "mode": "Planet Fitness",
+    "amenities": "Machines, light free weights",
+    "rating": "⭐️⭐️",
+    "price": "$ $ $",
+    "cafe": true,
+    "description": "The gym for the people who despise the gym atmosphere. While I understand the reaction to the over the top gym bro, I find the atmosphere opressive."
+  },
+  {
+    "id": 4,
+    "productName": "Powerhouse Gym",
+    "image": "$ $ $",
+    "mode": "Powerhouse Gym",
+    "amenities": "Free Weights and Machines",
+    "rating": "⭐️⭐️⭐️",
+    "price": "$ $ $",
+    "cafe": false,
+    "description": "Modelled very closely to Gold's gym. Another good option for the serious lifter and good alternative to Gold's if the location is more convenient."
+  }
+]
